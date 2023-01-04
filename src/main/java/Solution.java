@@ -20,7 +20,7 @@ public class Solution {
         int bagSize = 4;
 //        testWeightBagProblem(weight,value,bagSize);
         testCompletePack();
-        System.out.println("hello local");
+        System.out.println("hello local hhhh");
 
     }
 
